@@ -1,0 +1,1 @@
+analogue input = 2.358 V<br>Digital input = ON<br>salida2=OFF
